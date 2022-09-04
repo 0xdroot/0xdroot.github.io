@@ -19,13 +19,17 @@ First of all, we fork the project [minimal mistakes](https://github.com/mmistake
 
 ![Click Fork](../assets/images/fork_1.png)
 
-After clicking on Fork a new page will load, where we need to rename the repository from *minimal mistakes* with our preferred name of the personal site. The pattern of new site is 
+After clicking on Fork a new page will load, where we need to rename the repository from *minimal mistakes* with our preferred name of the personal site. The pattern of the new site is 
 
 *domain name*.**github.io**. 
 
 ![Name the repository](../assets/images/fork_2.png)
 
 ## Configure the GitHub
+
+The next steps are to find the new repository which we created and to go to _Settings_. There is an option for _Pages_ where we have to do some minor changes for our site to be public.
+
+![Find Pages on Settings Menu](../assets/images/set_1.png)
 
 
 
