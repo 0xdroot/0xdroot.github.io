@@ -14,5 +14,12 @@ There are some prerequisites before starting to build out the GitHub page. I wil
 # Workaround
 
 First of all, we fork the project [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 
+
 ![Click Fork](../assets/images/fork_1.png)
+
+After clicking on Fork a new page will load, where we need to rename the repository from *minimal mistakes* with our preferred name of the personal site. The pattern of new site is *domain name*.**github.io**. 
+
+![Name the repository](../assets/images/fork_2.png)
+
+
 
