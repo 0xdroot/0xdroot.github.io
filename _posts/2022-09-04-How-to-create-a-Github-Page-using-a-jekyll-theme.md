@@ -39,7 +39,7 @@ After 1-2 minutes the personal page has launched and we can start to write posts
 
 ## Start Posting
 
-Using GitHub Desktop and MS Code we can start posting articles or whatever we want. But before the start, we need to add a folder named *_posts* under the root directory of branch. In this folder, we create the markdown files with the posts. More information on how to use it we can be found in the [minimal](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) mistakes quick guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+Using GitHub Desktop and MS Code we can start posting articles or whatever we want. But before the start, we need to add a folder named *_posts* under the root directory of branch. In this folder, we create the markdown files with the posts. More information on how to use it we can be found in the [minimal mistakes quick guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 
 
