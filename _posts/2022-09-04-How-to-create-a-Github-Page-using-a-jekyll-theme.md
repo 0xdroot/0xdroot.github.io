@@ -13,6 +13,8 @@ There are some prerequisites before starting to build out the GitHub page. I wil
 
 # Workaround
 
+## Fork the Jekyll theme we would like to use
+
 First of all, we fork the project [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 
 
 ![Click Fork](../assets/images/fork_1.png)
@@ -22,6 +24,12 @@ After clicking on Fork a new page will load, where we need to rename the reposit
 *domain name*.**github.io**. 
 
 ![Name the repository](../assets/images/fork_2.png)
+
+## Configure the GitHub
+
+
+
+
 
 
 
