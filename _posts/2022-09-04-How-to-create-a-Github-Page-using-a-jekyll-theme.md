@@ -17,7 +17,9 @@ First of all, we fork the project [minimal mistakes](https://github.com/mmistake
 
 ![Click Fork](../assets/images/fork_1.png)
 
-After clicking on Fork a new page will load, where we need to rename the repository from *minimal mistakes* with our preferred name of the personal site. The pattern of new site is *domain name*.**github.io**. 
+After clicking on Fork a new page will load, where we need to rename the repository from *minimal mistakes* with our preferred name of the personal site. The pattern of new site is 
+
+*domain name*.**github.io**. 
 
 ![Name the repository](../assets/images/fork_2.png)
 
