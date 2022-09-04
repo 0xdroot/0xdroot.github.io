@@ -31,6 +31,19 @@ The next steps are to find the new repository which we created and to go to _Set
 
 ![Find Pages on Settings Menu](../assets/images/set_1.png)
 
+On _Pages_ change the Branch to *Master* and click *Save*.
+
+![Changing Branch](../assets/images/set_2.png)
+
+After 1-2 minutes the personal page has launched and we can start to write posts or to configure the page to suit our preferences.
+
+## Start Posting
+
+Using GitHub Desktop and MS Code we can start posting articles or whatever we want. But before the start, we need to add a folder named *_posts* under the root directory of branch. In this folder, we create the markdown files with the posts. More information how to use it we can found on the [minimal mistakes quick guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+
+
+
 
 
 
