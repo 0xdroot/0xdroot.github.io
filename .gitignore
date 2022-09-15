@@ -29,4 +29,7 @@ _asset_bundler_cache
 _site
 _docs
 _test
-
+_drafts
+drafts/
+test/
+docs/
