@@ -2,7 +2,7 @@
 
 But let's take the story from the beginning. 
 
-I was working in a medium-sized telecom company where, within a short period, I managed to become a supervisor in a team of engineers. I then went through all areas of the company, giving my best and working at least 10 hours every day. Although they were happy with me, the company could not do otherwise. By assigning me, complex tasks (which other colleagues had taken on and had not completed) did not proceed with any financial reward or change (incentive 1). 
+I was working in a medium-sized telecom company where, within a short period, I managed to become a supervisor in a team of engineers. I then went through all areas of the company, giving my best and working at least 10 hours every day. However, although they were happy with me, they continued to assign me complex tasks (which other colleagues had taken on and had not completed) and did not proceed with any financial reward or change. 
 
 After some time and before a change in management, they decided to give me a pay rise and increase my responsibilities. Unfortunately, the new administration had no idea of the business we were running, and as a solution, they decided to micromanage. In addition to the endless hours in meetings they arranged for us, we were required to write unlimited reports, and on top of that, we had to have meetings. In these meetings, they wanted us to be able to convey to them in detail how the projects were progressing and how technically we were going to manage them. Most of the time, they couldn't understand how the systems worked and using google, they asked questions. 
 
