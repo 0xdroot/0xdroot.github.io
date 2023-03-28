@@ -33,3 +33,4 @@ _drafts
 drafts/
 test/
 docs/
+.vscode/settings.json
